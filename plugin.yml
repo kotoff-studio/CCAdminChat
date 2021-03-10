@@ -1,0 +1,7 @@
+name: CCAdminChat
+description: "AdminChat Plugin for CreepCrafter"
+version: 1.0
+main: kotoff.main.AdminChat
+commands:
+ a:
+  description: "Administration Chat Command"
